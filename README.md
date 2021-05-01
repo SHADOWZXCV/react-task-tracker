@@ -5,5 +5,4 @@ A simple to do task tracker SPA using react and server-json.
 ```
 npm start
 npm run server
-
 ```
